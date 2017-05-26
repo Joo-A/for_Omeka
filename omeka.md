@@ -1,4 +1,4 @@
-# ** Omeka 소개 **
+# Omeka 소개
 
 ## 1. 오픈소스 소프트웨어 개요
 
@@ -9,7 +9,7 @@
 
 - [3/3](https://github.com/ahhn/oss/blob/master/resources/OSS3.pdf)
  
-## ** 2. Omeka 개요 **
+## 2. Omeka 개요
 - [Omeka 로고]!(https://omeka.org/ui/i/logo-horizontal-288px.gif)
 - [Omeka 사이트](http://omeka.org)
 - 앤드류 W. 멜론 재단, 박물관 및 도서관 서비스 연구소, 알프레드 P. 슬론 재단, 사무엘 H. 크레스 재단 등 미 연방 기구와 사립 재단 등의 재정지원으로 개발되어 무료로 제공되는 리눅스(Linux) 기반의 웹 콘텐츠 제작 도구

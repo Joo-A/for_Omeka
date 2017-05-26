@@ -25,5 +25,5 @@
 ## 4. Omeka 활용 사례
 - [Gothic Past](http://gothicpast.com/)
 
-![Gothic Past](http://omeka.org/wordpress/wp-content/uploads/2014/01/gothicp-150x150.png)
+![Gothic Past](http://omeka.org/wordpress/wp-content/uploads/2014/01/gothicp-150x150.png) 아일랜드의 중세 건축물 연구를위한 자료 인 Gothic Past는 아일랜드 트리니티 칼리지 (Trinity College Dublin)의 아일랜드 미술 연구 센터 보관소에 소장되어 있습니다. 이 사이트의 시각 자료에는 1930 년대 이래로 제작 된 중세 아일랜드 건축물 및 조각 사진뿐만 아니라 아일랜드 전역에 걸친 건물의 몰딩 프로파일 모음이 포함되어 있습니다.
 

@@ -26,4 +26,4 @@
 - Gothic Past  
    ‣ Gothic Past는 아일랜드의 중세 건축물 연구를 위한 사이트로  아일랜드 트리니티 칼리지(Trinity College Dublin)의 아일랜드 미술 연구 센터 보관소에서 운영
    ‣ 1930년대 이후 제작된 중세 아일랜드 건축물 및 조각 사진 뿐만 아니라 아일랜드 전역에 걸친 건물의 몰딩 프로파일 등이 전시되고 있음
-!(http://omeka.org/wordpress/wp-content/uploads/2014/01/gothicp-150x150.png "gothic past")
+![Gothic Past](http://omeka.org/wordpress/wp-content/uploads/2014/01/gothicp-150x150.png)

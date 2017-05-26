@@ -24,17 +24,19 @@
 
 ## 4. Omeka 활용 사례
 [Gothic Past](http://gothicpast.com/)
+![Gothic Past](http://omeka.org/wordpress/wp-content/uploads/2014/01/gothicp-150x150.png) 
 
 - 아일랜드의 중세 건축물 연구를 위한 사이트
 - 아일랜드 트리니티 칼리지(Trinity College Dublin)의 아일랜드 미술 연구 센터 보관소에서 운영
 - 1930년 이래로 제작된 중세 아일랜드 건축물 및 조각 사진 뿐만 아니라 아일랜드 전역에 걸친 건물의 몰딩 프로파일 모음 등을 보존
 
-![Gothic Past](http://omeka.org/wordpress/wp-content/uploads/2014/01/gothicp-150x150.png) 
+
 
 [Martha Washington : A Life](http://marthawashington.us/) 
- 
+![Martha Washington](http://omeka.org/wordpress/wp-content/uploads/2014/01/marthaw-150x150.png) 
+
 - Martha Dandridge Custis Washington의 삶을 통해 이용자들이 계급 및 성별이 18세기 여성의 경험에 영향을 주는 방식을 탐구할 수 있도록 돕는 디지털 전시회
   
-  ![Martha Washington](http://omeka.org/wordpress/wp-content/uploads/2014/01/marthaw-150x150.png) 
+
 
 

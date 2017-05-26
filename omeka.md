@@ -23,7 +23,7 @@
 - 이용자 참여와 상호작용을 조장하는 등 웹2.0 기술도 활용할 수 있는 도구
 
 ## 4. Omeka 활용 사례
-**Gothic Past**<http://gothicpast.com/>
+[Gothic Past](http://gothicpast.com/)
 
 - 아일랜드의 중세 건축물 연구를 위한 사이트
 - 아일랜드 트리니티 칼리지(Trinity College Dublin)의 아일랜드 미술 연구 센터 보관소 운영
@@ -31,7 +31,7 @@
 
 ![Gothic Past](http://omeka.org/wordpress/wp-content/uploads/2014/01/gothicp-150x150.png) 
 
-** [Martha Washington : A Life](http://marthawashington.us/) **
+[Martha Washington : A Life](http://marthawashington.us/) 
  
 - George Washington Mount Vernon과 George Mason University의 Roy Rosenzweig 역사 및 뉴 미디어 센터에서 개발 한 프로젝트
 - Martha Dandridge Custis Washington의 삶을 활용하여 방문객들이 계급 및 성별이 18세기 여성의 경험에 영향을 주는 방식을 탐구할 수 있도록 돕는 디지털 전시회

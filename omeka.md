@@ -23,6 +23,6 @@
 - 이용자 참여와 상호작용을 조장하는 등 웹2.0 기술도 활용할 수 있는 도구
 
 ## 4. Omeka 활용 사례
-- Gothic Past  
+- Gothic Past  [Gothic Past](http://gothicpast.com/)
 ![Gothic Past](http://omeka.org/wordpress/wp-content/uploads/2014/01/gothicp-150x150.png)
-[Gothic Past](http://gothicpast.com/)
+

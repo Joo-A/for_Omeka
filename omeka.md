@@ -23,7 +23,7 @@
 - 이용자 참여와 상호작용을 조장하는 등 웹2.0 기술도 활용할 수 있는 도구
 
 ## 4. Omeka 활용 사례
-** [Gothic Past](http://gothicpast.com/) **
+**Gothic Past**(http://gothicpast.com/)
 
 - 아일랜드의 중세 건축물 연구를 위한 사이트
 - 아일랜드 트리니티 칼리지(Trinity College Dublin)의 아일랜드 미술 연구 센터 보관소 운영

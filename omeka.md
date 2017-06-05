@@ -22,7 +22,7 @@
 - 데이터 교환이나 데이터 마이그레이션, 콘텐츠 재사용 기능 제공
 - 이용자 참여와 상호작용 촉진 등 웹 2.0 기술 활용할 수 있는 도구
 
-## 4. Omeka 활용 사례
+## 4. Omeka 해외 활용 사례
 [Gothic Past](http://gothicpast.com/)
 
 - 아일랜드의 중세 건축물 연구를 위한 사이트
@@ -37,6 +37,12 @@
 - Martha Dandridge Custis Washington의 삶을 통해 이용자들이 계급 및 성별이 18세기 여성의 경험에 영향을 주는 방식을 탐구할 수 있도록 돕는 디지털 전시회
 
 ![Martha Washington](http://omeka.org/wordpress/wp-content/uploads/2014/01/marthaw-150x150.png) 
+
+## 5. My Atom & Omeka 
+-  주제 : 일제강점기 경성의 건축왕 "정세권"
+- Atom 사이트 :
+- Omeka 사이트 :
+
 
 
   

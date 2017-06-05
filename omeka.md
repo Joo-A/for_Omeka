@@ -39,7 +39,7 @@
 ![Martha Washington](http://omeka.org/wordpress/wp-content/uploads/2014/01/marthaw-150x150.png) 
 
 ## 5. My Atom & Omeka 
--  주제 : 일제강점기 경성의 건축왕 "정세권"
+- 주제 : 일제강점기 경성의 건축왕 "정세권"
 - Atom 사이트 :
 - Omeka 사이트 :
 
